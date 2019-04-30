@@ -8,6 +8,8 @@ namespace Test1proj1
 {
     class Class1
     {
-        int a;
+        int apple;
+        Char b;
+
     }
 }
